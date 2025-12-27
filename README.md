@@ -2,5 +2,5 @@
 
 - **NFL Predictive Models Dashboard**
     - Compares Random Forest, Logistic Regression, and Coin Flip Predictions.
-    - Tracks preiction accuracy over time.
+    - Tracks precision accuracy over time.
     - Shows confusion matricies to show error structure.
